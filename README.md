@@ -58,19 +58,19 @@ PART 3 :
 
 FIRST STEP : ENTER YOU NUMBER AND AMOUNT YOU WANT TO PAY 
 
-	![Alt text](./asset/PAGE1.png)
+	![Alt text](https://github.com/josep-prog/rwanda-payment-platform/raw/main/asset/PAGE1.png)
 
 SECOND STEP : CLICK ON PAY ... RWF
 	
-	![Alt text](./asset/PAGE3.png)
+	![Alt text](https://github.com/josep-prog/rwanda-payment-platform/raw/main/asset/PAGE2.png)
 
 THIRD STEP : ENTER NUMBER OTP NUMBER YOU'VE RECIEVED VIA SMS
 	
-	![Alt text](./asset/PAGE3.png)
+	![Alt text](https://github.com/josep-prog/rwanda-payment-platform/raw/main/asset/PAGE3.png)
 
 FOURTH STEP : THANK YOU FOR COMPLETING PAYMENT
 	
-	![Alt text](./asset/PAGE3.png)
+	![Alt text](https://github.com/josep-prog/rwanda-payment-platform/raw/main/asset/PAGE4.png)
 
 
 
