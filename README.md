@@ -56,6 +56,26 @@ PART 3 :
  
 	- This will direct you to the page where you can enter you phone number and amount .
 
+FIRST STEP : ENTER YOU NUMBER AND AMOUNT YOU WANT TO PAY 
+
+	![Alt text](./asset/PAGE1.png)
+
+SECOND STEP : CLICK ON PAY ... RWF
+	
+	![Alt text](./asset/PAGE3.png)
+
+THIRD STEP : ENTER NUMBER OTP NUMBER YOU'VE RECIEVED VIA SMS
+	
+	![Alt text](./asset/PAGE3.png)
+
+FOURTH STEP : THANK YOU FOR COMPLETING PAYMENT
+	
+	![Alt text](./asset/PAGE3.png)
+
+
+
+
+
 NOTE :   
 	- this flutterwave , api used is under testing mode  
 	
@@ -67,3 +87,4 @@ NOTE :
 		- RDB {Rwanda Development Board} document
 		- account owner National  ID
 	- this is all to make sure that businnes is authorised to make sure that it is not running under the scammer issues
+
