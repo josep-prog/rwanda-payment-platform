@@ -51,9 +51,10 @@ PART 3 :
 	- initial node 
 		npm init -y
 
-	- run server.js
+	- run index.js
+		node index.js
  
-	This will direct you to the page where you can enter you phone number and amount .
+	- This will direct you to the page where you can enter you phone number and amount .
 
 NOTE :   
 	- this flutterwave , api used is under testing mode  
@@ -66,5 +67,3 @@ NOTE :
 		- RDB {Rwanda Development Board} document
 		- account owner National  ID
 	- this is all to make sure that businnes is authorised to make sure that it is not running under the scammer issues
-
-
