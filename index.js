@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({ extended: true })); // Parse form data
 app.use(express.static('public')); // Serve static files from the "public" folder
 
 // Flutterwave API keys
-const FLUTTERWAVE_PUBLIC_KEY = 'FLWPUBK_TEST-7f842addad5b6a7a4ff46e3204a98724-X'; // Replace with your actual public key
+const FLUTTERWAVE_PUBLIC_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // Replace with your actual public key
 
 // Payment route
 app.post('/pay', async (req, res) => {
